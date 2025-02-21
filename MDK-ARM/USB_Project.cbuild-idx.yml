@@ -1,0 +1,15 @@
+build-idx:
+  generated-by: csolution version 2.6.0
+  csolution: USB_Project.csolution.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: USB_Project.cproject.yml
+  cbuilds:
+    - cbuild: USB_Project+USBProject.cbuild.yml
+      project: USB_Project
+      configuration: +USBProject
+      messages:
+        info:
+          - USB_Project.cbuild-set.yml - file is already up-to-date
+          - USB_Project.cbuild-pack.yml - file is already up-to-date
+          - USB_Project+USBProject.cbuild.yml - file is already up-to-date

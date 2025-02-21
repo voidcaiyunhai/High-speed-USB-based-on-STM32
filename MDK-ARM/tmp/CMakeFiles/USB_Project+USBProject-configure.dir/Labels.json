@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/project/USB_Project/MDK-ARM/tmp/CMakeFiles/USB_Project+USBProject-configure"
+		},
+		{
+			"file" : "E:/project/USB_Project/MDK-ARM/tmp/CMakeFiles/USB_Project+USBProject-configure.rule"
+		},
+		{
+			"file" : "E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-configure.rule"
+		},
+		{
+			"file" : "E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-patch.rule"
+		},
+		{
+			"file" : "E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-update.rule"
+		},
+		{
+			"file" : "E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-download.rule"
+		},
+		{
+			"file" : "E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"USB_Project+USBProject"
+		],
+		"name" : "USB_Project+USBProject-configure"
+	}
+}

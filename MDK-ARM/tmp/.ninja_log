@@ -1,0 +1,26 @@
+# ninja log v6
+29	110	7611608662179644	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-mkdir	a58cfa11c72bcddb
+162	212	7611608663203740	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-update	d93bc8feff175ca1
+29	110	7611608662179644	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-mkdir	a58cfa11c72bcddb
+110	162	7611608662706039	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-download	e89f06a582649404
+231	317	7611626707155162	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-done	67ec88163ca3048c
+110	162	7611608662706039	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-download	e89f06a582649404
+162	212	7611608663203740	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-update	d93bc8feff175ca1
+213	260	7611608663672550	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-patch	11957580e22fd0cb
+213	260	7611608663672550	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-patch	11957580e22fd0cb
+260	10553	7611608766616519	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-configure	5ac303a01048ef96
+260	10553	7611608766616519	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-configure	5ac303a01048ef96
+43	133	7611626704465304	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-build	54dd6a89e037bc59
+10553	10662	7611608766656277	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-database	ee8f7d0518636455
+133	168	7611626705373490	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-install	52e28fc7945f6343
+10553	10662	7611608766656277	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-database	ee8f7d0518636455
+231	317	7611626707155162	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-done	67ec88163ca3048c
+43	133	7611626704465304	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-build	54dd6a89e037bc59
+43	133	7611626704465304	E:/project/USB_Project/MDK-ARM/out/USB_Project/USBProject/USB_Project.axf	54dd6a89e037bc59
+168	230	7611626706280466	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-test	d6f013da08b4d6f6
+133	168	7611626705373490	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-install	52e28fc7945f6343
+168	230	7611626706280466	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-test	d6f013da08b4d6f6
+231	317	7611626707155162	CMakeFiles/USB_Project+USBProject-complete	67ec88163ca3048c
+231	317	7611626707155162	E:/project/USB_Project/MDK-ARM/tmp/CMakeFiles/USB_Project+USBProject-complete	67ec88163ca3048c
+31	214	7612100377334308	USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-database	ee8f7d0518636455
+31	214	7612100377334308	E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-database	ee8f7d0518636455

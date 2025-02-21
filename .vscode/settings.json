@@ -1,0 +1,5 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=e:\\project\\USB_Project\\MDK-ARM\\out\\USB_Project\\USBProject"
+    ]
+}

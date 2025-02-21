@@ -1,0 +1,10 @@
+# Target labels
+ USB_Project+USBProject
+# Source files and their labels
+E:/project/USB_Project/MDK-ARM/tmp/CMakeFiles/USB_Project+USBProject-configure
+E:/project/USB_Project/MDK-ARM/tmp/CMakeFiles/USB_Project+USBProject-configure.rule
+E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-configure.rule
+E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-patch.rule
+E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-update.rule
+E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-download.rule
+E:/project/USB_Project/MDK-ARM/tmp/USB_Project+USBProject/src/USB_Project+USBProject-stamp/USB_Project+USBProject-mkdir.rule
